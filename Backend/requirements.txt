@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+google-auth
+requests
+python-jose
+web3
